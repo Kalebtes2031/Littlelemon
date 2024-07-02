@@ -1,1 +1,2 @@
-# Littlelemon
+/restaurant/menu/
+/restaurant/booking/
